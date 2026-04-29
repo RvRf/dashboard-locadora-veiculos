@@ -1,10 +1,10 @@
  Análise de Dados - Locadora de Veículos
 
  Contexto
--Projeto desenvolvido para fins de estudo e prática em análise de dados, utilizando Power BI e Excel.
+- Projeto desenvolvido para fins de estudo e prática em análise de dados, utilizando Power BI e Excel.
 
  Objetivo
--Analisar dados de uma locadora de veículos para identificar padrões de faturamento, utilização da frota e desempenho operacional.
+- Analisar dados de uma locadora de veículos para identificar padrões de faturamento, utilização da frota e desempenho operacional.
 
  Ferramentas Utilizadas
 - Power BI
